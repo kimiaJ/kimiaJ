@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! I'm Kimia Jamshidnejad 👋
 
-<!--
-**kimiaJ/kimiaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software engineer, lifelong learner, and aspiring data scientist with a knack for creating meaningful projects and solving complex problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 About Me
+
+- 🎓 **Education**: Master's in Software Engineering (current student)
+- 🎮 **Interests**: Federated Learning, Blockchain, IoT, and Data Science
+- 🤍 **Hobbies**: Playing chess, board games, and hang out with friends
+
+---
+
+## 📊 Skills
+
+- **Programming Languages**: Python, JavaScript, SQL, Java, C#, Dart
+- **Frameworks & Libraries**: Nuxt.js, Vue.js, Bootstrap, Flutter 
+
+---
+
+## 🌐 Connect with Me
+
+- **LinkedIn**: https://www.linkedin.com/in/kimia-jamshidnejad-756477222/
+- **Email**: kimiajamshidnejad@gmail.com
+
+---
+
+## 🎡 Fun Fact
+I'm always up for a game of chess or an insightful discussion on AI and blockchain!
+
